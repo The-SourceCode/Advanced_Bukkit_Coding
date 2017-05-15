@@ -1,0 +1,5 @@
+name: Cooldowns
+author: dabuseck
+version: 1.0
+main: com.tsccoding.main.MainCooldown
+description: Cooldowns plugin
