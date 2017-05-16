@@ -1,0 +1,5 @@
+name: MYSQLTest
+author: dabuseck
+version: 1.0
+main: me.tscoding.mysql.MysqlMain
+description: YouTube Tut
