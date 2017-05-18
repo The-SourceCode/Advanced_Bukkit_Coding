@@ -1,0 +1,6 @@
+host: 'localhost'
+port: 3306
+database: 'tutorial'
+username: 'root'
+password: 'password'
+table: 'player_data'
