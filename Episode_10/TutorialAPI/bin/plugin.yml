@@ -1,0 +1,5 @@
+name: TutorialAPI
+author: dabuseck
+version: 1.0
+main: me.tutorial.api.TutorialAPI
+description: YouTube Tut API
