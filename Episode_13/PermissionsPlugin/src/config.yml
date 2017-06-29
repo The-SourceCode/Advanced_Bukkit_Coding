@@ -1,0 +1,5 @@
+Groups:
+  member:
+    permissions:
+      - tutorial.blockbreak
+
