@@ -1,0 +1,8 @@
+main: me.tsc.tutorial.vault.VaultMain
+version: 1.0
+name: EconomyVault_Tutorial
+
+commands:
+ eco:
+  usage: /<command>
+  description: Run eco commands
