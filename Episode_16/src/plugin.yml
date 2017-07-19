@@ -1,0 +1,8 @@
+main: me.tsctutorial.economy.EconomyMain
+version: 1.0
+name: Econo
+
+commands:
+ econo:
+  usage: /<command>
+  description: Run eco commands
