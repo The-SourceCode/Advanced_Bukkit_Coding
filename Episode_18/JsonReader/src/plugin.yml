@@ -1,0 +1,8 @@
+main: me.tsctutorial.jsonreader.JsonReaderMain
+version: 1.0
+name: JsonReader
+
+commands:
+ js:
+  usage: /<command>
+  description: Run commands
