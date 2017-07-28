@@ -1,0 +1,4 @@
+name: MavenPlugin
+version: 1.0
+main: me.tsccoding.maven.MavenMain
+author: TheSourceCode
