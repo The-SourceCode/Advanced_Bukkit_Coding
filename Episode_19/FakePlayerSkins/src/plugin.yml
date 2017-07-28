@@ -1,0 +1,8 @@
+main: me.tsctutorial.fakeplayers.FakePlayersMain
+version: 1.0
+name: FakePlayers
+
+commands:
+ fp:
+  usage: /<command>
+  description: Run commands
