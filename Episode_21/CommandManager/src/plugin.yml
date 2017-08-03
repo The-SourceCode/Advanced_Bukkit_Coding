@@ -1,0 +1,8 @@
+main: me.tsctutorial.command.CommandMain
+version: 1.0
+name: Commands
+
+commands:
+ yt:
+  usage: /<command>
+  description: Run eco commands

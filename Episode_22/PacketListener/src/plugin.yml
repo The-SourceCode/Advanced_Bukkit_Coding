@@ -1,0 +1,5 @@
+name: PacketListener
+author: TheSourceCode
+version: 1.0
+main: me.tsccoding.packets.PacketMain
+description: Packets
