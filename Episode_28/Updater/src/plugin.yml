@@ -1,0 +1,10 @@
+name: PreTutorial
+author: dabuseck
+version: 1.0
+main: me.tsccoding.pretutorial.PreTutorial
+description: TNT TAG
+
+commands:
+ pre:
+  usage: /<command>
+  description: Issues the main command
