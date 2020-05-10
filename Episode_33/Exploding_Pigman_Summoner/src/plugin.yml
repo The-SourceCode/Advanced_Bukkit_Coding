@@ -1,0 +1,5 @@
+name: TSCTutorial
+author: AlonsoAliaga
+version: 1.0
+main: com.alonsoaliaga.tscplugin.Main
+description: How to spawn a Exploding Pigman Summoner

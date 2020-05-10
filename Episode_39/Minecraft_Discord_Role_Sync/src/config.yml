@@ -1,0 +1,17 @@
+#Episode 39
+Role-sync:
+  vip:
+    Permission: "alonsotscplugin.vip"
+    Name: "VIP"
+  vip+:
+    Permission: "alonsotscplugin.vip+"
+    Name: "VIP+"
+  mvp:
+    Permission: "alonsotscplugin.mvp"
+    Name: "MVP"
+  mvp+:
+    Permission: "alonsotscplugin.mvp+"
+    Name: "MVP+"
+  guard:
+    Permission: "alonsotscplugin.guard"
+    Name: "Guard"
